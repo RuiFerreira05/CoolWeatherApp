@@ -2,7 +2,7 @@
 <resources>
     <string name="latitude">Latitude</string>
     <string name="longitude">Longitude</string>
-    <string name="sea_level_pressure">Pressão ao nivel do mar</string>
+    <string name="sea_level_pressure">Pressão ao nível do mar</string>
     <string name="wind_direction">Direção do vento</string>
     <string name="wind_speed">Velocidade do vento</string>
     <string name="temperature">Temperatura</string>
